@@ -1,0 +1,501 @@
+Date,Description,Category,Amount
+2026-01-18,Disney+,Subscriptions,20.9
+2025-12-19,Tech Accessories,Misc,223.68
+2026-01-19,Tech Accessories,Misc,108.51
+2026-01-08,Movie Ticket,Entertainment,94.02
+2025-11-02,Disney+,Subscriptions,12.1
+2025-11-11,Netflix,Entertainment,107.28
+2025-12-27,Netflix,Entertainment,33.5
+2025-12-30,Disney+,Subscriptions,16.07
+2025-11-27,Starbucks,Food,29.41
+2026-01-12,Theater,Entertainment,56.32
+2025-12-19,Whole Foods,Food,46.66
+2026-01-04,Charging Station,Transport,47.32
+2025-12-31,Starbucks,Food,50.68
+2025-11-04,Tech Accessories,Misc,165.99
+2025-12-08,Concert Ticket,Entertainment,36.07
+2026-01-13,Grocery Store,Food,8.78
+2025-10-25,iCloud Storage,Subscriptions,10.49
+2026-01-03,iCloud Storage,Subscriptions,19.37
+2025-12-22,Disney+,Subscriptions,21.89
+2025-12-16,Train Ticket,Transport,20.63
+2025-11-16,Cafe Latte,Food,52.21
+2025-11-18,Gas Station,Transport,20.37
+2026-01-09,Books,Misc,148.85
+2026-01-04,Uber,Transport,81.84
+2025-12-25,Books,Misc,170.48
+2025-11-02,Tech Accessories,Misc,133.1
+2025-12-18,Audible,Subscriptions,21.6
+2025-11-02,Lyft,Transport,35.32
+2026-01-14,Cafe Latte,Food,56.96
+2025-11-09,Electronics,Misc,44.69
+2025-12-15,Movie Ticket,Entertainment,21.82
+2026-01-05,Movie Ticket,Entertainment,25.42
+2025-12-09,iCloud Storage,Subscriptions,10.81
+2025-11-06,Gas Station,Transport,107.67
+2025-12-16,Whole Foods,Food,45.85
+2026-01-11,Lyft,Transport,26.07
+2025-12-14,Lunch Out,Food,45.67
+2025-11-27,Disney+,Subscriptions,19.89
+2025-12-23,Apple Arcade,Entertainment,66.98
+2026-01-02,Gas Station,Transport,11.27
+2025-11-30,Apple Music,Subscriptions,18.06
+2025-11-03,Movie Ticket,Entertainment,109.73
+2025-11-21,Whole Foods,Food,28.51
+2026-01-12,Gas Station,Transport,71.71
+2025-12-18,Starbucks,Food,23.28
+2025-11-25,Apple Arcade,Entertainment,65.51
+2025-10-21,Gas Station,Transport,94.82
+2025-12-10,Books,Misc,165.94
+2025-12-01,iCloud Storage,Subscriptions,21.36
+2025-11-07,Whole Foods,Food,16.89
+2025-11-06,Whole Foods,Food,23.69
+2026-01-06,Starbucks,Food,42.61
+2026-01-15,Movie Ticket,Entertainment,113.81
+2025-12-03,Gym Membership,Misc,112.38
+2025-11-07,Audible,Subscriptions,24.76
+2025-10-27,iCloud Storage,Subscriptions,17.08
+2025-12-29,Cafe Latte,Food,20.73
+2026-01-01,Apple Arcade,Entertainment,112.28
+2025-11-04,Lunch Out,Food,20.99
+2025-12-02,Tech Accessories,Misc,234.09
+2025-12-27,Disney+,Subscriptions,10.64
+2025-11-18,Gas Station,Transport,81.56
+2025-12-08,Gym Membership,Misc,195.2
+2025-12-09,Netflix,Entertainment,54.21
+2025-11-19,Lyft,Transport,15.9
+2025-11-15,Gym Membership,Misc,26.13
+2026-01-11,Gym Membership,Misc,194.76
+2025-12-05,Lunch Out,Food,9.24
+2025-12-14,Netflix,Entertainment,90.53
+2025-12-22,Clothes,Misc,110.04
+2026-01-14,Starbucks,Food,56.25
+2026-01-07,Apple Music,Subscriptions,18.53
+2025-11-07,Grocery Store,Food,10.77
+2025-12-30,Dinner Out,Food,9.46
+2025-11-13,iCloud Storage,Subscriptions,16.04
+2025-10-28,Train Ticket,Transport,19.57
+2025-11-20,Netflix,Entertainment,71.47
+2025-12-30,Lyft,Transport,20.0
+2025-11-08,Movie Ticket,Entertainment,41.66
+2025-12-30,Charging Station,Transport,111.05
+2025-10-29,Tech Accessories,Misc,54.14
+2025-12-25,Tech Accessories,Misc,180.52
+2026-01-17,Charging Station,Transport,79.43
+2026-01-16,iCloud Storage,Subscriptions,17.44
+2025-11-20,Apple Music,Subscriptions,10.48
+2026-01-08,Clothes,Misc,91.86
+2025-12-24,Netflix,Entertainment,95.33
+2025-12-30,Dinner Out,Food,46.7
+2025-12-28,Apple Music,Subscriptions,12.21
+2025-12-03,Uber,Transport,20.43
+2025-11-17,Dinner Out,Food,36.93
+2025-12-18,Grocery Store,Food,15.76
+2026-01-05,Lunch Out,Food,33.22
+2025-11-08,Clothes,Misc,187.32
+2025-11-30,Electronics,Misc,101.03
+2026-01-17,Grocery Store,Food,32.13
+2026-01-01,Grocery Store,Food,39.24
+2025-11-01,Netflix,Entertainment,72.96
+2026-01-04,Spotify,Subscriptions,17.05
+2025-12-07,Lyft,Transport,80.05
+2025-12-31,Charging Station,Transport,103.33
+2025-11-21,Tech Accessories,Misc,46.27
+2025-12-31,Clothes,Misc,91.05
+2025-12-05,Disney+,Subscriptions,20.66
+2025-11-11,Spotify,Subscriptions,17.01
+2025-11-12,iCloud Storage,Subscriptions,13.17
+2025-11-08,Starbucks,Food,35.8
+2025-12-15,Dinner Out,Food,14.91
+2026-01-07,Electronics,Misc,226.41
+2025-12-30,Cafe Latte,Food,58.2
+2025-11-02,Netflix,Entertainment,104.99
+2025-12-11,Uber,Transport,104.81
+2025-12-02,Whole Foods,Food,38.24
+2026-01-13,Netflix,Entertainment,62.65
+2025-12-20,Netflix,Entertainment,110.25
+2026-01-16,Whole Foods,Food,31.32
+2025-11-12,Apple Arcade,Entertainment,81.43
+2025-12-02,Apple Music,Subscriptions,13.79
+2025-12-30,Gas Station,Transport,59.24
+2025-12-25,Starbucks,Food,31.42
+2025-12-21,Lunch Out,Food,28.35
+2025-11-18,iCloud Storage,Subscriptions,15.36
+2025-12-28,Train Ticket,Transport,25.88
+2025-12-20,Electronics,Misc,22.49
+2025-11-25,Spotify,Subscriptions,11.57
+2026-01-18,Electronics,Misc,100.14
+2025-10-30,Clothes,Misc,162.14
+2025-12-09,Whole Foods,Food,49.61
+2025-11-25,Clothes,Misc,35.85
+2025-11-09,Starbucks,Food,39.14
+2025-10-26,Charging Station,Transport,102.84
+2025-12-27,Electronics,Misc,84.41
+2025-12-20,Audible,Subscriptions,20.26
+2025-10-24,Grocery Store,Food,27.43
+2025-11-19,Tech Accessories,Misc,10.82
+2026-01-05,Lyft,Transport,78.07
+2025-12-10,Charging Station,Transport,37.55
+2026-01-11,Train Ticket,Transport,113.4
+2026-01-14,Gas Station,Transport,54.71
+2025-10-24,Apple Music,Subscriptions,19.77
+2026-01-16,Movie Ticket,Entertainment,28.78
+2025-11-01,Concert Ticket,Entertainment,88.85
+2025-12-27,Whole Foods,Food,11.29
+2026-01-04,iCloud Storage,Subscriptions,23.66
+2026-01-11,Tech Accessories,Misc,162.3
+2025-12-14,Netflix,Entertainment,57.62
+2025-11-15,Lyft,Transport,49.54
+2025-11-27,Concert Ticket,Entertainment,54.15
+2025-10-31,Apple Arcade,Entertainment,95.78
+2025-10-25,Clothes,Misc,205.39
+2025-12-16,Spotify,Subscriptions,16.39
+2025-11-10,Audible,Subscriptions,24.63
+2026-01-16,Gym Membership,Misc,159.98
+2025-11-02,Clothes,Misc,45.1
+2025-11-27,Audible,Subscriptions,22.71
+2025-11-16,Lyft,Transport,40.95
+2025-12-16,Train Ticket,Transport,94.07
+2025-10-21,Gym Membership,Misc,235.14
+2025-11-16,Starbucks,Food,8.34
+2025-12-22,Lunch Out,Food,21.82
+2025-11-04,Cafe Latte,Food,50.34
+2025-12-20,Netflix,Entertainment,60.66
+2025-12-31,Movie Ticket,Entertainment,99.44
+2025-12-31,Lunch Out,Food,14.63
+2025-11-21,Clothes,Misc,182.68
+2026-01-07,Netflix,Entertainment,51.46
+2025-11-27,Concert Ticket,Entertainment,92.3
+2025-12-05,Books,Misc,138.69
+2025-11-04,Charging Station,Transport,117.29
+2025-12-30,Charging Station,Transport,71.92
+2025-12-25,Spotify,Subscriptions,16.6
+2025-11-04,Gym Membership,Misc,242.6
+2025-11-29,Charging Station,Transport,41.87
+2025-12-15,Train Ticket,Transport,32.68
+2026-01-08,iCloud Storage,Subscriptions,20.22
+2025-11-10,Books,Misc,97.34
+2025-10-22,Concert Ticket,Entertainment,47.9
+2025-11-11,Grocery Store,Food,50.23
+2025-11-01,Tech Accessories,Misc,109.18
+2026-01-15,Tech Accessories,Misc,98.35
+2025-11-26,Dinner Out,Food,46.53
+2025-11-24,Dinner Out,Food,18.19
+2025-11-05,Lunch Out,Food,27.67
+2025-12-20,Apple Music,Subscriptions,10.31
+2025-12-07,Books,Misc,181.3
+2025-10-22,Grocery Store,Food,11.34
+2025-12-27,Apple Music,Subscriptions,13.23
+2025-11-07,Whole Foods,Food,40.74
+2025-12-13,Disney+,Subscriptions,16.31
+2025-10-23,Theater,Entertainment,76.07
+2025-12-26,Apple Music,Subscriptions,10.94
+2025-10-26,Train Ticket,Transport,95.21
+2025-11-20,Gym Membership,Misc,35.46
+2025-10-23,iCloud Storage,Subscriptions,24.28
+2026-01-11,Netflix,Entertainment,46.53
+2025-12-22,Whole Foods,Food,32.18
+2026-01-07,Books,Misc,155.21
+2025-11-02,Apple Arcade,Entertainment,16.45
+2026-01-07,Lunch Out,Food,18.25
+2025-11-03,Starbucks,Food,29.93
+2025-10-31,Disney+,Subscriptions,11.66
+2025-12-24,Gym Membership,Misc,136.68
+2025-10-30,Lunch Out,Food,15.96
+2025-11-02,Cafe Latte,Food,31.39
+2025-11-09,Apple Music,Subscriptions,12.54
+2025-12-26,Spotify,Subscriptions,11.4
+2025-10-24,Apple Music,Subscriptions,11.52
+2025-11-09,Whole Foods,Food,30.62
+2025-10-24,iCloud Storage,Subscriptions,20.78
+2025-11-21,Apple Music,Subscriptions,19.67
+2026-01-18,Theater,Entertainment,27.73
+2025-12-17,Gym Membership,Misc,28.09
+2025-12-26,Charging Station,Transport,80.51
+2025-12-21,Tech Accessories,Misc,143.67
+2025-12-28,Charging Station,Transport,68.11
+2025-12-27,Apple Music,Subscriptions,13.29
+2026-01-07,Tech Accessories,Misc,236.53
+2025-11-20,Concert Ticket,Entertainment,73.7
+2025-12-19,Audible,Subscriptions,18.62
+2025-10-27,Tech Accessories,Misc,240.45
+2025-12-15,iCloud Storage,Subscriptions,23.66
+2025-12-30,Lyft,Transport,85.21
+2025-10-25,Tech Accessories,Misc,75.84
+2025-10-25,Audible,Subscriptions,19.65
+2026-01-04,Lyft,Transport,81.63
+2025-11-29,Movie Ticket,Entertainment,103.93
+2026-01-10,Spotify,Subscriptions,19.32
+2025-11-15,Starbucks,Food,23.33
+2025-12-06,Books,Misc,122.92
+2025-12-22,Lunch Out,Food,10.19
+2025-10-31,Clothes,Misc,136.89
+2025-12-23,Apple Music,Subscriptions,20.44
+2026-01-12,Cafe Latte,Food,8.5
+2025-10-24,Uber,Transport,107.73
+2025-12-01,Starbucks,Food,41.97
+2025-11-29,Cafe Latte,Food,51.62
+2025-12-04,Disney+,Subscriptions,14.57
+2025-11-11,Gym Membership,Misc,146.29
+2025-12-04,Whole Foods,Food,37.04
+2025-12-08,Whole Foods,Food,24.55
+2025-10-29,Disney+,Subscriptions,10.25
+2025-11-07,Cafe Latte,Food,57.3
+2026-01-04,Spotify,Subscriptions,24.52
+2025-11-03,Movie Ticket,Entertainment,93.01
+2025-12-03,Concert Ticket,Entertainment,49.51
+2025-11-03,Theater,Entertainment,41.58
+2025-12-02,Theater,Entertainment,35.49
+2025-11-17,Lyft,Transport,17.53
+2025-10-24,Lunch Out,Food,41.48
+2025-11-19,Train Ticket,Transport,32.66
+2025-12-22,Concert Ticket,Entertainment,79.91
+2025-12-14,Apple Arcade,Entertainment,38.2
+2025-12-20,Cafe Latte,Food,36.28
+2025-11-06,Audible,Subscriptions,18.79
+2025-11-15,Charging Station,Transport,8.87
+2025-11-25,Dinner Out,Food,12.03
+2025-12-19,Theater,Entertainment,112.4
+2025-12-22,Audible,Subscriptions,12.71
+2025-11-23,Books,Misc,153.32
+2025-11-22,Clothes,Misc,120.12
+2025-12-27,Spotify,Subscriptions,24.07
+2026-01-19,Disney+,Subscriptions,15.05
+2025-11-12,Gas Station,Transport,14.1
+2025-12-10,Spotify,Subscriptions,10.61
+2025-11-09,Electronics,Misc,209.99
+2025-11-19,Lyft,Transport,111.15
+2026-01-14,Clothes,Misc,243.62
+2025-11-18,Lyft,Transport,26.06
+2025-11-08,Lunch Out,Food,59.94
+2025-11-22,Grocery Store,Food,52.46
+2025-12-18,Concert Ticket,Entertainment,38.18
+2025-11-14,Books,Misc,173.47
+2025-12-22,Gas Station,Transport,114.18
+2025-12-21,Movie Ticket,Entertainment,19.35
+2025-12-13,Apple Music,Subscriptions,13.05
+2025-11-11,Gas Station,Transport,36.72
+2025-11-20,Whole Foods,Food,49.61
+2025-12-04,Spotify,Subscriptions,24.6
+2026-01-19,Train Ticket,Transport,51.67
+2025-10-25,Concert Ticket,Entertainment,114.38
+2025-12-07,Uber,Transport,60.26
+2026-01-11,Uber,Transport,71.85
+2025-11-27,Charging Station,Transport,29.97
+2025-11-25,Lyft,Transport,52.64
+2025-11-14,Dinner Out,Food,30.85
+2025-10-23,Lyft,Transport,119.71
+2025-11-20,Netflix,Entertainment,72.87
+2025-11-22,Uber,Transport,105.51
+2025-12-30,iCloud Storage,Subscriptions,19.95
+2025-12-04,Train Ticket,Transport,40.34
+2026-01-09,Spotify,Subscriptions,15.17
+2025-11-01,Concert Ticket,Entertainment,34.69
+2025-11-15,Books,Misc,116.92
+2025-10-21,Whole Foods,Food,17.08
+2025-12-18,Apple Music,Subscriptions,21.75
+2025-11-30,Lunch Out,Food,17.13
+2025-10-26,Audible,Subscriptions,19.16
+2025-12-20,Spotify,Subscriptions,10.17
+2025-12-07,Uber,Transport,65.57
+2025-11-15,Gym Membership,Misc,59.09
+2026-01-17,Apple Arcade,Entertainment,33.39
+2025-11-13,Disney+,Subscriptions,15.53
+2025-11-07,Train Ticket,Transport,58.98
+2025-11-18,Whole Foods,Food,25.46
+2025-12-17,Lyft,Transport,19.7
+2025-11-02,Uber,Transport,103.55
+2025-11-17,Whole Foods,Food,33.6
+2026-01-06,Electronics,Misc,176.98
+2025-12-21,Tech Accessories,Misc,163.16
+2025-10-23,Uber,Transport,85.6
+2025-12-27,Uber,Transport,60.34
+2026-01-07,Electronics,Misc,40.43
+2025-11-24,Lunch Out,Food,54.95
+2025-11-28,Gas Station,Transport,27.62
+2025-10-26,Clothes,Misc,206.2
+2025-11-27,Gym Membership,Misc,230.6
+2025-12-30,Whole Foods,Food,7.94
+2025-12-16,Netflix,Entertainment,110.68
+2026-01-18,Netflix,Entertainment,50.9
+2025-11-02,Apple Music,Subscriptions,18.95
+2025-10-28,Spotify,Subscriptions,14.62
+2025-11-12,Gas Station,Transport,114.17
+2025-11-02,Concert Ticket,Entertainment,117.41
+2026-01-14,Spotify,Subscriptions,24.59
+2025-12-05,Cafe Latte,Food,50.62
+2025-11-18,Spotify,Subscriptions,16.9
+2025-11-08,iCloud Storage,Subscriptions,10.63
+2025-12-21,Grocery Store,Food,50.52
+2026-01-08,Concert Ticket,Entertainment,65.74
+2025-11-17,Netflix,Entertainment,42.35
+2025-10-21,Gas Station,Transport,38.68
+2026-01-16,Disney+,Subscriptions,11.85
+2026-01-18,Apple Arcade,Entertainment,112.76
+2025-11-21,Spotify,Subscriptions,17.2
+2025-11-20,Apple Arcade,Entertainment,77.32
+2026-01-04,Grocery Store,Food,59.2
+2026-01-18,Concert Ticket,Entertainment,89.19
+2026-01-08,Concert Ticket,Entertainment,69.22
+2026-01-18,Lyft,Transport,113.38
+2025-12-30,Clothes,Misc,51.94
+2025-11-27,Starbucks,Food,49.53
+2025-10-23,Lyft,Transport,50.45
+2025-10-28,Clothes,Misc,229.52
+2025-11-23,Electronics,Misc,109.55
+2025-12-22,Gym Membership,Misc,38.7
+2025-10-24,Concert Ticket,Entertainment,47.71
+2025-11-04,Theater,Entertainment,95.94
+2025-12-31,Lyft,Transport,110.54
+2025-10-26,Lunch Out,Food,24.45
+2025-10-26,Lunch Out,Food,33.62
+2025-12-21,Gas Station,Transport,40.35
+2025-12-19,Movie Ticket,Entertainment,93.39
+2025-11-13,Apple Music,Subscriptions,18.89
+2025-11-23,Audible,Subscriptions,17.24
+2025-11-05,Electronics,Misc,171.03
+2025-12-15,Dinner Out,Food,46.11
+2025-11-16,Concert Ticket,Entertainment,54.45
+2025-12-28,Lunch Out,Food,16.07
+2025-12-24,Charging Station,Transport,58.77
+2026-01-10,Apple Music,Subscriptions,11.65
+2025-12-19,Lyft,Transport,44.4
+2025-12-13,Lyft,Transport,93.64
+2026-01-19,Netflix,Entertainment,95.49
+2025-11-10,Netflix,Entertainment,61.4
+2025-12-04,Grocery Store,Food,48.57
+2025-12-05,Concert Ticket,Entertainment,57.42
+2026-01-10,Apple Music,Subscriptions,24.56
+2025-11-17,Disney+,Subscriptions,13.34
+2025-12-19,Gym Membership,Misc,16.94
+2025-11-14,Movie Ticket,Entertainment,27.47
+2025-12-27,Tech Accessories,Misc,26.73
+2025-12-10,Audible,Subscriptions,24.89
+2025-11-28,Gas Station,Transport,28.64
+2025-12-27,iCloud Storage,Subscriptions,17.35
+2025-11-08,Apple Music,Subscriptions,12.48
+2025-11-16,Theater,Entertainment,58.01
+2026-01-14,Starbucks,Food,52.21
+2025-12-31,Apple Music,Subscriptions,11.1
+2025-12-27,Tech Accessories,Misc,149.02
+2025-12-27,Grocery Store,Food,39.15
+2025-10-31,Movie Ticket,Entertainment,48.3
+2025-10-21,Apple Music,Subscriptions,15.18
+2025-10-21,Tech Accessories,Misc,38.71
+2026-01-17,Gas Station,Transport,82.95
+2025-11-26,Grocery Store,Food,24.07
+2025-10-22,Movie Ticket,Entertainment,24.42
+2025-11-04,Clothes,Misc,156.79
+2025-12-06,Concert Ticket,Entertainment,91.35
+2025-12-12,Theater,Entertainment,64.55
+2026-01-01,Grocery Store,Food,33.46
+2025-12-26,Disney+,Subscriptions,24.86
+2025-12-12,Spotify,Subscriptions,12.59
+2025-10-27,Train Ticket,Transport,96.34
+2025-11-26,Disney+,Subscriptions,16.18
+2025-11-08,Netflix,Entertainment,89.96
+2025-11-02,Spotify,Subscriptions,10.01
+2026-01-02,Books,Misc,154.12
+2026-01-02,Lunch Out,Food,31.12
+2025-11-03,Electronics,Misc,128.97
+2026-01-07,Electronics,Misc,157.69
+2025-12-13,Spotify,Subscriptions,19.11
+2026-01-18,Books,Misc,20.74
+2025-11-13,Electronics,Misc,206.51
+2025-10-29,Starbucks,Food,13.89
+2025-11-30,Lunch Out,Food,8.3
+2025-11-14,Charging Station,Transport,38.95
+2025-11-24,Gym Membership,Misc,189.15
+2025-11-08,Concert Ticket,Entertainment,81.44
+2025-12-17,Starbucks,Food,18.84
+2025-11-26,Lyft,Transport,28.07
+2025-12-01,Books,Misc,72.98
+2026-01-03,Gas Station,Transport,25.11
+2025-12-23,Books,Misc,61.41
+2026-01-16,Apple Music,Subscriptions,14.6
+2025-12-30,Apple Music,Subscriptions,17.87
+2025-12-16,Clothes,Misc,246.88
+2025-11-09,Uber,Transport,32.04
+2025-10-21,Theater,Entertainment,24.66
+2026-01-03,Tech Accessories,Misc,26.83
+2025-11-06,Train Ticket,Transport,45.58
+2025-11-13,Uber,Transport,43.47
+2025-12-16,Electronics,Misc,64.54
+2025-11-22,Train Ticket,Transport,110.88
+2026-01-02,Apple Music,Subscriptions,15.13
+2026-01-06,Uber,Transport,57.93
+2025-11-17,Charging Station,Transport,9.28
+2025-11-10,Books,Misc,29.51
+2025-11-28,Disney+,Subscriptions,23.73
+2025-11-08,Dinner Out,Food,23.71
+2025-11-05,Gym Membership,Misc,102.58
+2026-01-04,Spotify,Subscriptions,12.06
+2025-11-15,Apple Arcade,Entertainment,37.32
+2025-12-02,Gym Membership,Misc,27.92
+2025-10-21,Audible,Subscriptions,17.01
+2025-10-30,Cafe Latte,Food,31.53
+2025-12-23,Gas Station,Transport,82.18
+2025-10-21,Whole Foods,Food,51.7
+2025-11-25,Books,Misc,116.07
+2025-11-12,Clothes,Misc,23.15
+2025-11-25,Gym Membership,Misc,56.47
+2026-01-06,Clothes,Misc,54.98
+2025-11-02,Gym Membership,Misc,175.73
+2025-12-12,Movie Ticket,Entertainment,22.53
+2025-11-07,Books,Misc,38.71
+2025-11-16,Lyft,Transport,11.43
+2025-11-29,Charging Station,Transport,86.06
+2025-12-18,Gym Membership,Misc,200.53
+2025-10-25,Lyft,Transport,58.82
+2025-11-25,Starbucks,Food,45.93
+2025-12-28,Electronics,Misc,49.07
+2025-10-28,Apple Music,Subscriptions,12.43
+2025-12-03,Netflix,Entertainment,19.83
+2025-10-31,Apple Music,Subscriptions,12.28
+2025-11-07,Books,Misc,72.3
+2025-11-20,Apple Arcade,Entertainment,21.04
+2026-01-11,Theater,Entertainment,60.22
+2025-11-27,Charging Station,Transport,31.18
+2025-12-06,Electronics,Misc,154.17
+2025-10-23,Clothes,Misc,127.53
+2026-01-13,Cafe Latte,Food,19.67
+2026-01-15,Lyft,Transport,65.42
+2025-12-30,Netflix,Entertainment,74.42
+2025-11-20,Apple Arcade,Entertainment,32.34
+2026-01-08,Apple Arcade,Entertainment,55.08
+2025-11-28,Audible,Subscriptions,20.52
+2025-12-13,Gas Station,Transport,11.52
+2025-12-04,Starbucks,Food,16.99
+2025-12-21,Uber,Transport,101.17
+2025-10-21,Dinner Out,Food,48.03
+2026-01-01,Apple Music,Subscriptions,20.66
+2025-11-03,Concert Ticket,Entertainment,66.43
+2026-01-12,Train Ticket,Transport,9.14
+2026-01-03,Starbucks,Food,21.97
+2025-12-30,iCloud Storage,Subscriptions,10.8
+2025-12-17,Movie Ticket,Entertainment,42.2
+2025-10-28,Disney+,Subscriptions,14.39
+2025-11-13,Apple Music,Subscriptions,19.46
+2025-11-08,iCloud Storage,Subscriptions,21.6
+2025-12-01,Electronics,Misc,157.42
+2025-12-20,Cafe Latte,Food,31.88
+2026-01-01,Starbucks,Food,9.56
+2025-12-04,Audible,Subscriptions,21.05
+2025-12-24,Apple Music,Subscriptions,11.33
+2025-12-29,Theater,Entertainment,16.47
+2025-12-10,Movie Ticket,Entertainment,65.65
+2025-11-10,Gas Station,Transport,90.61
+2026-01-10,Electronics,Misc,206.58
+2025-11-24,Gym Membership,Misc,95.25
+2025-12-19,Charging Station,Transport,18.84
+2025-12-10,Movie Ticket,Entertainment,36.55
+2025-12-12,Starbucks,Food,46.79
+2025-12-13,Uber,Transport,114.94
+2025-11-11,Train Ticket,Transport,42.63
+2025-11-14,Concert Ticket,Entertainment,35.74
+2025-10-29,Disney+,Subscriptions,24.53
+2026-01-19,Cafe Latte,Food,36.46
+2025-11-25,Movie Ticket,Entertainment,81.69
+2025-11-22,Starbucks,Food,25.12
+2026-01-17,Uber,Transport,89.72
+2026-01-05,iCloud Storage,Subscriptions,19.25
