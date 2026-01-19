@@ -30,7 +30,7 @@ This prototype demonstrates:
   > 💡 Entertainment: You’re $45 over your weekly budget. Try a free movie night or attend local community events.  
 - Safe categories like Food or Subscriptions that are within budget are **ignored**, making the advice highly targeted.
 
-![AI Advice Panel](screenshot_3.png)
+![AI Advice Panel](Screenshot_2.png)
 
 ### 3. **Interactive Chat**
 - Ask Money Mate questions like:  
